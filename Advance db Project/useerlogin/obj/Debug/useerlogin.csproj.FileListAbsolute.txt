@@ -1,0 +1,23 @@
+F:\9-semester\Ad database\Mid\useerlogin\useerlogin\bin\Debug\useerlogin.exe.config
+F:\9-semester\Ad database\Mid\useerlogin\useerlogin\bin\Debug\useerlogin.exe
+F:\9-semester\Ad database\Mid\useerlogin\useerlogin\bin\Debug\useerlogin.pdb
+F:\9-semester\Ad database\Mid\useerlogin\useerlogin\obj\Debug\useerlogin.csprojResolveAssemblyReference.cache
+F:\9-semester\Ad database\Mid\useerlogin\useerlogin\obj\Debug\useerlogin.Form1.resources
+F:\9-semester\Ad database\Mid\useerlogin\useerlogin\obj\Debug\useerlogin.Properties.Resources.resources
+F:\9-semester\Ad database\Mid\useerlogin\useerlogin\obj\Debug\useerlogin.csproj.GenerateResource.Cache
+F:\9-semester\Ad database\Mid\useerlogin\useerlogin\obj\Debug\useerlogin.exe
+F:\9-semester\Ad database\Mid\useerlogin\useerlogin\obj\Debug\useerlogin.pdb
+F:\9-semester\Ad database\Mid\useerlogin\useerlogin\obj\Debug\useerlogin.userhome.resources
+F:\9-semester\Ad database\Mid\useerlogin\useerlogin\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\useerlogin\useerlogin\obj\Debug\useerlogin.Form1.resources
+C:\Users\User\Desktop\useerlogin\useerlogin\obj\Debug\useerlogin.Properties.Resources.resources
+C:\Users\User\Desktop\useerlogin\useerlogin\obj\Debug\useerlogin.userhome.resources
+C:\Users\User\Desktop\useerlogin\useerlogin\obj\Debug\useerlogin.userhome1.resources
+C:\Users\User\Desktop\useerlogin\useerlogin\obj\Debug\useerlogin.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\useerlogin\useerlogin\bin\Debug\useerlogin.exe.config
+C:\Users\User\Desktop\useerlogin\useerlogin\obj\Debug\useerlogin.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\useerlogin\useerlogin\bin\Debug\useerlogin.exe
+C:\Users\User\Desktop\useerlogin\useerlogin\bin\Debug\useerlogin.pdb
+C:\Users\User\Desktop\useerlogin\useerlogin\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\useerlogin\useerlogin\obj\Debug\useerlogin.exe
+C:\Users\User\Desktop\useerlogin\useerlogin\obj\Debug\useerlogin.pdb
